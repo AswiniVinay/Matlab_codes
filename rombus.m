@@ -1,4 +1,3 @@
-% animation_point.m
 clear; close all;
 r=1;
 % Create data
